@@ -1,0 +1,19 @@
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.exe.config
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.Form1.resources
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.Properties.Resources.resources
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.exe
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.pdb
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.exe
+C:\Users\alumno\Desktop\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.pdb
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.exe.config
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.exe
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\bin\Debug\Calculadora_tp1BrianPariz.pdb
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.csprojResolveAssemblyReference.cache
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.Form1.resources
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.Properties.Resources.resources
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.csproj.GenerateResource.Cache
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.csproj.CoreCompileInputs.cache
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.exe
+C:\Users\brian_Pariz\Google Drive\Calculadora_tp1BrianPariz\Calculadora_tp1BrianPariz\obj\Debug\Calculadora_tp1BrianPariz.pdb
