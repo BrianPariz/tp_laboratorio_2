@@ -1,0 +1,29 @@
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.exe
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.pdb
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\bin\Debug\Excepciones.pdb
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.exe
+C:\Users\Brian Pariz\Google Drive\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.exe
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.exe
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Test.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\alumno\Downloads\Pariz.Brian.2C.TP3\Test\bin\Debug\Excepciones.pdb
