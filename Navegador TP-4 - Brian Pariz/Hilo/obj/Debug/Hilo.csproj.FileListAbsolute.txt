@@ -13,3 +13,9 @@ Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.dll
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Hilo\bin\Debug\Hilo.pdb
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.dll
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Hilo\obj\Debug\Hilo.pdb
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\bin\Debug\Hilo.dll
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\obj\Debug\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\obj\Debug\Hilo.dll
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Hilo\obj\Debug\Hilo.pdb

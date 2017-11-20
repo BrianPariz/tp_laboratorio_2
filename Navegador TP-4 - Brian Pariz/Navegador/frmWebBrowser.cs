@@ -126,7 +126,7 @@ namespace Navegador
                     this.txtUrl.ForeColor = Color.Gray;
                     return;
                 }
-                else if (this.txtUrl.Text.Substring(0, 8).ToLower() == "https://")
+                else if (this.txtUrl.Text.Substring(0, 7).ToLower() == "http://" || this.txtUrl.Text.Substring(0, 8).ToLower() == "https://")
                 {
                     this.descargador = new Descargador(new Uri(this.txtUrl.Text));
                     if (!archivos.Guardar(this.txtUrl.Text))
@@ -136,8 +136,8 @@ namespace Navegador
                 }
                 else
                 {
-                    this.descargador = new Descargador(new Uri("https://" + this.txtUrl.Text));
-                    if (!archivos.Guardar("https://" + this.txtUrl.Text))
+                    this.descargador = new Descargador(new Uri("http://" + this.txtUrl.Text));
+                    if (!archivos.Guardar("http://" + this.txtUrl.Text))
                     {
                         MessageBox.Show("Hubo un error al guardar el historial", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
