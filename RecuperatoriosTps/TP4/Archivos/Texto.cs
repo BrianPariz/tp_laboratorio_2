@@ -25,7 +25,7 @@ namespace Archivos
         {
             try
             {
-                using (StreamWriter sw = File.AppendText(archivo))
+                using (StreamWriter sw = new StreamWriter(archivo, true))
                 {
                     sw.WriteLine(datos);
                 }
@@ -45,17 +45,14 @@ namespace Archivos
         public bool Leer(out List<string> datos)
         {
             datos = new List<string>();
-            string line;
-            int i = 0;
 
             try
             {
                 using (StreamReader sr = new StreamReader(archivo))
                 {
-                    while ((line = sr.ReadLine()) != null)
+                    while (!sr.EndOfStream)
                     {
                         datos.Add(sr.ReadLine());
-                        i++;
                     }
                 }
 

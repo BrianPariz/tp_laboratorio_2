@@ -119,13 +119,6 @@ namespace Navegador
                     MessageBox.Show("Primero ingrese un link!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     return;
                 }
-                else if (this.txtUrl.Text.Length < 8)
-                {
-                    MessageBox.Show("Link Inválido", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    this.txtUrl.Text = frmWebBrowser.ESCRIBA_AQUI;
-                    this.txtUrl.ForeColor = Color.Gray;
-                    return;
-                }
                 else if (this.txtUrl.Text.Substring(0, 7).ToLower() == "http://" || this.txtUrl.Text.Substring(0, 8).ToLower() == "https://")
                 {
                     this.descargador = new Descargador(new Uri(this.txtUrl.Text));

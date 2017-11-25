@@ -16,3 +16,9 @@ Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Archivos\bin\Debug\Arch
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.dll
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.pdb
 Z:\Carpetas Usuario\Escritorio\Navegador TP-4 - AlumnoV2\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\bin\Debug\Archivos.dll
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\obj\Debug\Archivos.dll
+C:\Users\Brian Pariz\Google Drive\Navegador TP-4 - Brian Pariz\Archivos\obj\Debug\Archivos.pdb
